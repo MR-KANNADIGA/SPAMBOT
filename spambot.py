@@ -885,8 +885,8 @@ async def _(e):
             await e.reply(usage, parse_mode=None, link_preview=None )
             
         
-@idk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
-@ydk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
+@idk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
+@ydk.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
 @wdk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
 @hdk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
 @sdk.on(events.NewMessage(incoming=True, pattern=r"\.pleave"))
@@ -1375,7 +1375,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"★彡[ᴘᴏɴɢ]彡★!\n`{ms}` 𝗺𝘀")
+        await event.edit(f"⚡[ᴘᴏɴɢ] ⚡!\n`{ms}` 𝗺𝘀")
 
 
     
