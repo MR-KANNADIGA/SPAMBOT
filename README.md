@@ -53,4 +53,4 @@ This is SpamBot Of @LegendBoy_XD Group- https//t.me/LEGEND_K_USERBOT
 
 ### StringSession
 
-[![String](https://telegra.ph/file/f13f61a635735dfdf0457.jpg)](https://replit.com/@KrishnaJaiswal1/SPAMBOT#main.py) 
+[![String](https://telegra.ph/file/f13f61a635735dfdf0457.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
