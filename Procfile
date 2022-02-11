@@ -1,1 +1,1 @@
-worker: python3 Legendfastspam.py
+worker: python3 spambot.py
