@@ -32,9 +32,6 @@ This is SpamBot Of @LegendBoy_XD Group- https//t.me/LEGEND_K_USERBOT
 ------------
 <h3> Deploy To Heroku </h3>
 
-## U Can Click Below Without Fork If Eror Then Go To Down One Deploy To Heroku
-
-
 - First Fork This Repo
 
 - Click Below Deploy To Heroku
