@@ -1,6 +1,6 @@
 {
   "name": "SPAM BOT",
-  "description": "A smoothest and fastet spam bot made By @LegendBoy_XD.",
+  "description": "A smoothest and fastet spam bot made By @Mr_Professor_Agora.",
   "logo": "",
     "env": {
       "STRING": {
@@ -140,12 +140,12 @@
       },
       "GROUP_USERNAME": {
         "description": "In Which Group U Want to Add This All Id In Any Group",
-        "value": "@LB_OFFTOPIC",
+        "value": "@DANGEROUSKANNADIGA",
         "required": true
       },
       "SUDO": {
         "description": "Sudo Users Id",
-        "value": "",
+        "value": "5201305448",
         "required": true
       }
   },
