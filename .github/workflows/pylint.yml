@@ -30,6 +30,6 @@ jobs:
           commit_message: 'legend auto fixes'
           commit_options: '--no-verify'
           repository: .
-          commit_user_name: LEGEND-AI
-          commit_user_email: Krishna045Jaiswal@gmail.com
-          commit_author: LEGEND-AI<Krishna045Jaiswal@gmail.com>
+          commit_user_name: MR-KANNADIGA
+          commit_user_email: agoraprofessor@gmail.com
+          commit_author: MR-KANNADIGA<agoraprofessor@gmail.com>
