@@ -53,4 +53,4 @@ This is SpamBot Of @Mr_Professor_Agora Group- https//t.me/DangerousKannadiga
 
 ### StringSession
 
-[![String](https://telegra.ph/file/f13f61a635735dfdf0457.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://telegra.ph/file/f13f61a635735dfdf0457.jpg)](https://t.me/ADMSSGENBOT) 
