@@ -1,5 +1,5 @@
 # SPAMBOT
-This is SpamBot Of @LegendBoy_XD Group- https//t.me/LegendBot_OP
+This is SpamBot Of @Mr_Professor_Agora Group- https//t.me/DangerousKannadiga
 
 <p align="center">
 <a href="https://github.com/LEGEND-AI/SPAMBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-AI/SPAMBOT?style=flat&logo=github&color=success" /> </a>
